@@ -3,6 +3,7 @@
    padding: 0;
 }
 
+/* Essa é uma classe css do próprio leaflet, é necessário para que a altura e a largura do mapa funcione na viewport*/
 .leaflet-container {
    height: 100vh;
    width: 100vw;
